@@ -1,4 +1,4 @@
-# Hidden 5xx lab
+# debug5xx lab
 
 Small, runnable labs that reproduce production errors your logs never show.
 Each folder is one bug, with a `run.sh bug` and a `run.sh fix`.
