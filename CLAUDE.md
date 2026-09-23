@@ -2,6 +2,8 @@
 
 Read this first. It explains what this repo is, how the labs are built, and the rules for adding one.
 
+**Plan, status and pending work:** see [ROADMAP.md in the blog repo](https://github.com/Pushkar-Agnihotri/debug5xx/blob/main/ROADMAP.md).
+
 ## What and why
 
 - Small, runnable labs that reproduce production errors your logs never show. Each lab backs one post on https://debug5xx.pages.dev (blog source: https://github.com/Pushkar-Agnihotri/debug5xx).
